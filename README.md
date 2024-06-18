@@ -1,12 +1,25 @@
 # Mini_IMDB
 
 # Project Title
-
-A brief description of what this project does and who it's for. Replace "Project Title" with the name of your project.
+**Mini_IMDB** is a dynamic web application designed to enhance the movie-watching experience by providing users with an immersive preview of movie trailers alongside comprehensive reviews for each film. This platform serves as a centralized hub where movie enthusiasts can explore and discover films through vivid trailers, making informed viewing decisions based on detailed critiques and user-generated reviews.
 
 ## Description
 
 This project is a full-stack application using React for the frontend, Spring Boot as the backend framework, and MongoDB for persistent storage. It is designed to demonstrate a CRUD application integrating the three technologies.
+
+## Demo
+<div style="text-align: center; display: flex; align-items: center; justify-content: center;">
+  <div style="width: 40%; height: auto; display: flex; justify-content: center; align-items: center;">
+    <img src="./Demo/Home_Page.png" alt="Home" style="height: 300px; width: auto; max-width: 100%;">
+  </div>
+  <div style="width: 40%; height: auto; display: flex; justify-content: center; align-items: center;">
+    <img src="./Demo/Review_Page.png" alt="Review" style="height: 300px; width: auto; max-width: 100%;">
+  </div>
+</div>
+
+<div style="text-align: center;">
+<img src="./Demo/CURL_GET_MOVIES.png" alt="API" width="50%"/>
+</div>
 
 ## Prerequisites
 
